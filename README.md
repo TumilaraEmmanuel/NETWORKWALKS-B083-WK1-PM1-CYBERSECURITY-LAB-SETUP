@@ -1,5 +1,5 @@
 <h1 align="center"> 
-   🔐A Typical Cybersecurity Lab <br>
+   🔐A Virtual Cybersecurity Lab <br>
 Setup
 </h1>
 <p align="center"
