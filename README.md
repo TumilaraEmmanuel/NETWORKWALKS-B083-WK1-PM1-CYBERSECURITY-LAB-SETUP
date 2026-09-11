@@ -137,7 +137,8 @@ Adapter Type: Intel PRO/1000 MT Desktop
 ```
 
 The VM was allocated:
-```RAM: 2048 MB```
+```RAM: 2048 MB
+```
 
 ![image alt](https://github.com/TumilaraEmmanuel/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/132ac23c96118307fab555b9f2926e496650f8ba/2.png)
 
