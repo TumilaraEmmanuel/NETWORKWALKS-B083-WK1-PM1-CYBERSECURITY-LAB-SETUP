@@ -137,6 +137,7 @@ Adapter Type: Intel PRO/1000 MT Desktop
 ```
 
 The VM was allocated:
+
 ```RAM: 2048 MB
 ```
 
@@ -211,7 +212,10 @@ Documenting problems is an important part of the project.
 
 After manually configuring the IPv4 settings, Internet connectivity may fail depending on the Kali/NetworkManager configuration.
 One workaround used during this lab was:
-```sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0```
+
+```sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
+```
+
 The network connection was then restarted/rebooted and connectivity was tested again.
 
 Important: Network interface and connection names may differ between systems. Students should first identify their actual connection name before running an `nmcli` command.
@@ -258,9 +262,9 @@ This laboratory set up is intended strictly for education purposes only.
 
 ## 🔗 Tools & Resources
 
--**7-Zip**: https://7-zip.org/download.html
--**VirtualBox**: https://virtualbox.org/wiki/Downloads
--**Kali Linux**: https://kali.org/get-kali
+- **7-Zip**: https://7-zip.org/download.html
+- **VirtualBox**: https://virtualbox.org/wiki/Downloads
+- **Kali Linux**: https://kali.org/get-kali
 
 <hr>
 
