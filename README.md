@@ -157,7 +157,9 @@ DNS: 8.8.8.8```
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-## Picture
+![image alt](https://github.com/TumilaraEmmanuel/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/8a4f400396518b1ec41a0ea466d99d0b5187dbee/3.png)
+
+![image alt](https://github.com/TumilaraEmmanuel/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/8a4f400396518b1ec41a0ea466d99d0b5187dbee/4.png)
 
 <hr>
 
