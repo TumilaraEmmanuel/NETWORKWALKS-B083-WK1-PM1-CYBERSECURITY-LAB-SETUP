@@ -150,6 +150,7 @@ A shared folder was also configured for transferring required files between the 
 The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
 
 Example configuration:
+
 ```IP Address: 10.0.0.2
 Subnet Mask: 255.255.255.0
 Gateway: 10.0.0.1
