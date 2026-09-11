@@ -137,9 +137,7 @@ Adapter Type: Intel PRO/1000 MT Desktop
 ```
 
 The VM was allocated:
-
-```RAM: 2048 MB
-```
+```RAM: 2048 MB```
 
 ![image alt](https://github.com/TumilaraEmmanuel/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/132ac23c96118307fab555b9f2926e496650f8ba/2.png)
 
@@ -170,10 +168,8 @@ A consistent IP address makes it easier to document the lab and reference the Ka
 
 After completing the initial configuration, a VirtualBox snapshot was created.
 
-Example snapshot name:
-
-```Clean Kali - Network Setup
-```
+Example snapshot name
+```Clean Kali - Network Setup```
 The snapshot represents the clean baseline of the laboratory.
 
 If a future exercise changes or damages the VM configuration, the machine can be restored to this baseline.
